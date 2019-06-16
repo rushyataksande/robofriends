@@ -4,6 +4,7 @@ import SearchBox from '../components/SearchBox';
 import './App.css';
 import Scroll from '../components/Scroll';
 
+
 class App extends Component {
 
 		constructor(){
